@@ -1,0 +1,22 @@
+.support-chat {
+    padding: 20px;
+}
+
+.support-chat a {
+    display: block;
+    margin: 10px 0;
+    margin-left: 500px;
+    margin-top: 50px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.support-chat a:hover {
+    text-decoration: underline;
+}
+.support-chat h1 {
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
+}

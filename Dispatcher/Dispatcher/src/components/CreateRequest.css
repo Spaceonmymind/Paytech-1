@@ -1,0 +1,179 @@
+.create-request {
+    padding: 20px;
+}
+
+.checkbox {
+    width: 5px;
+    height: 5px;
+}
+
+.create-request h1 {
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
+}
+
+.create-request form {
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+
+.create-request label {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 38px;
+}
+
+
+
+.create-request img {
+    width: 50px;
+    height: 50px;
+    margin-left: 12px;
+    position: relative;
+    left:230px;
+}
+
+.create-request ul {
+    position: left;
+    margin-left: 180px;
+}
+
+.create-request div {
+    margin-left: 2px;
+    position: left;
+    left:3px;
+}
+
+.create-request input[type="datetime-local"] {
+
+    width: 350px;
+    position: left;
+    left:300px;
+    margin-bottom: 30px;
+}
+.create-request input[type="checkbox"] {
+    margin-left: 10px;
+    width: 50px;
+    position: left;
+    left:300px;
+    margin-bottom: 5px;
+}
+
+.create-request label[type="categories"] {
+    margin-left: 5px;
+    width: 20px;
+    position: left;
+    left:300px;
+    margin-bottom: 5px;
+}
+
+.checkboxes {
+    width: 900px;
+
+}
+
+.checkbox-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.checkbox-group:not(:last-of-type) {
+    margin-bottom: 5px;
+
+}
+
+.checkbox {
+    cursor: pointer;
+}
+
+.label {
+    cursor: pointer;
+}
+.create-request textarea {
+    width: 350px;
+    height: 15px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.create-request span {
+
+    padding: 100px;
+    margin-left: 650px;
+
+
+}
+
+.create-request button[type="submit"] {
+    display: inline-block;
+    margin-left: 187px;
+    float: right;
+    width: 350px;
+    height: 15px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    background-color: #D51223;
+
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.create-request button[type="submit"]:hover {
+    background-color: #3B4372;
+}
+
+.create-request button[type="plus"] {
+    display: inline-block;
+    margin-left: 187px;
+    float: right;
+    width: 50px;
+    height: 50px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    background-color: #D51223;
+
+    color: white;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.create-request button[type="plus"]:hover {
+    background-color: #3B4372;
+}
+.create-request button[type="minus"] {
+    display: inline-block;
+    margin-left: 187px;
+    float: right;
+    width: 50px;
+    height: 50px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.8);
+    padding: 0px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    background-color: #D51223;
+
+    color: white;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.create-request button[type="minus"]:hover {
+    background-color: #3B4372;
+}

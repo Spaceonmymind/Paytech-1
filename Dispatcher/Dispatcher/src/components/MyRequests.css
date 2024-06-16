@@ -1,0 +1,43 @@
+.my-requests {
+    padding: 20px;
+}
+
+.my-requests h1 {
+    color: #333;
+}
+
+.my-requests table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.my-requests table, th, td {
+    border: 1px solid #ccc;
+}
+
+.my-requests th, .my-requests td {
+    padding: 10px;
+    text-align: left;
+}
+
+.my-requests th {
+    background-color: #f2f2f2;
+}
+.my-requests button {
+    padding: 10px;
+    background-color: #f10000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.my-requests button:hover {
+    background-color: #f10000;
+}
+.my-requests h1 {
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
+}

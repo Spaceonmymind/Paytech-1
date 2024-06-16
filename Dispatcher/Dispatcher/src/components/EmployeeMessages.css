@@ -1,0 +1,11 @@
+.employee-messages {
+    padding: 20px;
+}
+
+.employee-messages h1 {
+    color: #333;
+}
+
+.employee-messages .messages {
+    margin-top: 10px;
+}

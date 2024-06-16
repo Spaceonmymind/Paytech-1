@@ -1,0 +1,11 @@
+.employee-announcements {
+    padding: 20px;
+}
+
+.employee-announcements h1 {
+    color: #333;
+}
+
+.employee-announcements .announcements {
+    margin-top: 10px;
+}

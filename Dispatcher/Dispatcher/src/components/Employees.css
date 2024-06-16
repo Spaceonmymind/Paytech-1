@@ -1,0 +1,20 @@
+.employees {
+    padding: 20px;
+}
+
+.employees button {
+    padding: 10px;
+    background-color: #f10000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.employees button:hover {
+    background-color: #f10000;
+}
+.employees h1 {
+    color: #000000;
+    display: inline-block;
+    margin-left: 500px;
+}
